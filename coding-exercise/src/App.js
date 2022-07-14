@@ -4,6 +4,7 @@ import "./App.css";
 
 function App() {
   console.log("App loaded");
+  console.log("App not loaded");
   return (
     <div className="App">
       <header className="App-header">
